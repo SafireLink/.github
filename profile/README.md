@@ -1,27 +1,34 @@
 <div align="center">
+
   <a href="https://safire-five.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rajveeerr/Safire/main/client/src/assets/Safire.svg" alt="Safire Logo" width="200"/>
+    <img src="https://raw.githubusercontent.com/rajveeerr/Safire/main/client/src/assets/Safire.svg" alt="Safire Logo" width="250"/>
   </a>
+
   <h1 align="center">Safire - The Harassment Saver</h1>
   <p align="center">
-    A real-time, AI-powered browser extension to detect, hide, and document online harassment, creating a safer digital space for everyone.
-  </p>
-  <p align="center">
-    <a href="https://vimeo.com/1059493429?share=copy"><strong>Watch the Demo »</strong></a>
+    A real-time, AI-powered browser extension to detect, hide, and document online harassment, 
     <br />
-    <a href="https://safire-five.vercel.app/">View Landing Page</a>
-    ·
-    <a href="https://github.com/rajveeerr/Safire/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rajveeerr/Safire/issues">Request Feature</a>
+    creating a safer digital space for everyone.
+    
   </p>
 
-  <!-- BADGES -->
   <p align="center">
-    <img src="https://img.shields.io/github/stars/rajveeerr/Safire?style=for-the-badge" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/rajveeerr/Safire?style=for-the-badge" alt="GitHub forks">
-    <img src="https://img.shields.io/github/license/rajveeerr/Safire?style=for-the-badge" alt="License">
+    <a href="https://github.com/rajveeerr/Safire/stargazers"><img src="https://img.shields.io/github/stars/rajveeerr/Safire?style=for-the-badge&logo=github&color=ce93d8" alt="Stars"></a>
+    <a href="https://github.com/rajveeerr/Safire/network/members"><img src="https://img.shields.io/github/forks/rajveeerr/Safire?style=for-the-badge&logo=github&color=81d4fa" alt="Forks"></a>
+    <a href="https://github.com/rajveeerr/Safire/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rajveeerr/Safire?style=for-the-badge&color=a5d6a7" alt="License"></a>
+    <img src="https://img.shields.io/badge/Hackathon-WINNER-gold?style=for-the-badge&logo=trophy" alt="Hackathon Winner">
   </p>
+
+  <p align="center">
+    <a href="https://safire-five.vercel.app/"><strong>View the Website</strong></a>
+    ·
+    <a href="#-demo-video">Watch Demo</a>
+    ·
+    <a href="https://github.com/rajveeerr/Safire/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report a Bug</a>
+    ·
+    <a href="https://github.com/rajveeerr/Safire/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=">Request a Feature</a>
+  </p>
+
 </div>
 
 ---
