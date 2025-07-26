@@ -1,5 +1,6 @@
 <div align="center">
 
+
   <a href="https://safire-five.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/rajveeerr/Safire/main/client/src/assets/Safire.svg" alt="Safire Logo" width="250"/>
   </a>
@@ -9,7 +10,6 @@
     A real-time, AI-powered browser extension to detect, hide, and document online harassment, 
     <br />
     creating a safer digital space for everyone.
-    
   </p>
 
   <p align="center">
@@ -186,4 +186,4 @@ Consequently, the commit history visible here doesn't fully capture the extensiv
 
 We share this note to provide context on our journey and to give a nod to the immense effort, late nights, and passion our team poured into bringing this idea to life.
 
----
+<img width="4128" height="1380" alt="banner" src="https://github.com/user-attachments/assets/668c4fc3-bf7a-402b-aff1-2aa691210c4a" />   
